@@ -5,7 +5,7 @@ import 'EmbedImage.dart' as discord;
 
 class Embed {
   final int? color;
-  final List<discord.EmbedAuthor>? author;
+  final discord.EmbedAuthor? author;
   final String? title;
   final String? url;
   final String? description;
